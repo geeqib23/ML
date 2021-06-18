@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 23 01:08:18 2019
 
-@author: Mithilesh
-"""
 
 """ Recognize the face by using the K-Nearest Neighbours Algorithm.
     1-Load the data of every person stored as numpy array.
